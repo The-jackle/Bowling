@@ -1,0 +1,9 @@
+C:\Users\tylerp\source\repos\Bowling2\Bowling\bin\Release\Bowling.exe.config
+C:\Users\tylerp\source\repos\Bowling2\Bowling\bin\Release\Bowling.exe
+C:\Users\tylerp\source\repos\Bowling2\Bowling\bin\Release\Bowling.pdb
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.frmBowling.resources
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.Properties.Resources.resources
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.csproj.GenerateResource.cache
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.exe
+C:\Users\tylerp\source\repos\Bowling2\Bowling\obj\Release\Bowling.pdb
